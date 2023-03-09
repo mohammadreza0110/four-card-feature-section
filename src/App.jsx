@@ -9,19 +9,19 @@ function App() {
   return (
     <main className="container mx-auto text-center py-20">
       <section className="mb-14">
-        <header className="text-4xl flex flex-col gap-y-2 pb-3">
+        <header className="text-2xl lg:text-4xl flex flex-col gap-y-2 pb-3">
           <h2 className="font-extralight">Reliable, efficient delivery</h2>
 
           <h1 className="font-semibold">Powered by Technology</h1>
         </header>
 
-        <header className="text-base max-w-[540px] mx-auto opacity-50">
+        <header className="text-base max-w-[540px] mx-auto opacity-50 px-1">
           Our Artificial Intelligence powered tools use millions of project data
           points to ensure that your project is successful
         </header>
       </section>
 
-      <article className="flex flex-col gap-y-6 lg:flex-row justify-center items-center gap-x-6">
+      <article className="flex flex-col gap-y-6 lg:flex-row justify-center items-center gap-x-6 px-4">
         <Card title="Supervisor" image={search} borderColor="border-primary-cyan" />
         <div className="flex flex-col gap-y-6">
           <Card

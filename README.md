@@ -44,6 +44,4 @@ I proudly learned:
 - Don't overdo in semantic Html
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/mohammadreza-khorsand-157633223/)
+- LinkedIn - [Mohammadreza Khorsand](https://www.linkedin.com/in/mohammadreza-khorsand-157633223/)

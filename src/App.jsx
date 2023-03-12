@@ -22,20 +22,20 @@ function App() {
       </section>
 
       <article className="flex flex-col gap-y-6 lg:flex-row justify-center items-center gap-x-6 px-4">
-        <Card title="Supervisor" image={search} borderColor="border-primary-cyan" />
+        <Card title="Supervisor" image={search} borderColor="before:border-primary-cyan" />
         <div className="flex flex-col gap-y-6">
           <Card
             title="Team Builder"
             image={home}
-            borderColor="border-primary-red"
+            borderColor="before:border-primary-red"
           />
           <Card
             title="Karma"
             image={idea}
-            borderColor="border-primary-orange"
+            borderColor="before:border-primary-orange"
           />
         </div>
-        <Card title="Calculator" image={software} borderColor="border-primary-blue" />
+        <Card title="Calculator" image={software} borderColor="before:border-primary-blue" />
       </article>
     </main>
   );
